@@ -1,16 +1,15 @@
-## Hi there 👋
+# EidoDK
 
-<!--
-**EidoDK/EidoDk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+20 years of sysadminning eventually resulted in:
 
-Here are some ideas to get you started:
+* shell scripts
+* telemetry
+* mild stubbornness
+* distrust of sleeping appliances
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently maintaining:
+
+* [keepalive](https://github.com/EidoDK/keepalive)
+  Universal network life support system
+
+Deep sleep is a privilege, not a right.
